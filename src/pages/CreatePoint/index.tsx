@@ -1,6 +1,6 @@
 import React from 'react';
 
-const CreatePoint () => {
+const CreatePoint = () => {
   return (
     <h1>Planet</h1>
   )
