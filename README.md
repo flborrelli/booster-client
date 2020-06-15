@@ -6,6 +6,12 @@ As part of the Next Level Week taught by [**Diego Fernandes**](https://github.co
 
 The main idea is to connect waste disposal points with anyone who produce recycling waste.
 
+![](/src/assets/readme-1.png)
+
+![](/src/assets/readme-2.png)
+
+
+
 ## APIs
 
 - [**API repository here**](https://github.com/flborrelli/booster-server)
